@@ -13,7 +13,7 @@ p {
 
 textarea {
     position: absolute; 
-    top: 190px; 
+    top: 215px; 
     margin: 0 auto;
     width: calc(100% - 40px);
     height: 300px;
@@ -44,7 +44,7 @@ textarea {
 
 .keyboard_key {
     height: 45px;
-    width: 6%;
+    width: 5%;
     max-width: 90px;
     margin: 3px;
     border-radius: 4px;
@@ -68,12 +68,17 @@ textarea {
 
 }
 
+.active {
+    background: rgba(255, 255, 255, 0.12);
+
+}
+
 .keyboard_key--wide {
-    width: 12%;
+    width: 10%;
 }
 
 .keyboard_key--extra-wide {
-    width: 36%;
+    width: 30%;
     max-width: 500px;
 }
 
