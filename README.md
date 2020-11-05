@@ -1,1 +1,2 @@
-# [Virtual-Keyboard](https://katefadeeva.github.io/Virtual-Keyboard/)
+#Virtual keyboard.
+[Link to view](https://katefadeeva.github.io/Virtual-Keyboard/)
